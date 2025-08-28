@@ -1,3 +1,10 @@
 title: "My Personal Website"
 author: "Diogo Marques"
 description: "Some notes about some of my projects."
+
+# Full URL to the website
+url: "https://diogo.mrqs.github.io" 
+
+# Subdirectory of the site
+# MUST start with a slash
+baseurl: "/rusticallabs"
