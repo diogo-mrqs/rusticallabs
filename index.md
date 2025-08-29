@@ -16,7 +16,7 @@ Here is a cool animation (it's actually just a placeholder).
 ---
 
 ### External Links
-Were I'm also at:
+Where I'm also at:
 *   [My GitHub Profile](https://github.com/diogo-mrqs)
 *   [My LinkedIn Profile](https://www.linkedin.com/in/diogo-mrqs94/)
 
